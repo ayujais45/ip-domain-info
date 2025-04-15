@@ -70,7 +70,22 @@ npm install axios</code></pre>
     <li>View WHOIS and Geo info for each input.</li>
   </ol>
 </div>
+     <div class="container">
+ <h2> 📸 Screenshots</h2>
+<u1>
+    
+### Screenshot 1: IP/Domain Info Lookup - Dashboard
+![dashboard png](https://github.com/user-attachments/assets/9a79fb4f-52d6-4302-bce0-3659352d93ca)
 
+
+### Screenshot 2: WHOIS Information - Sample Results
+![whois png](https://github.com/user-attachments/assets/f420b785-6de6-4aa5-ade7-315eb78fb570)
+
+
+### Screenshot 3: Geolocation Data - IP Lookup
+![geolocation png](https://github.com/user-attachments/assets/988bec3a-bbe5-46a4-a7cb-7ed388e2972d)
+
+</u1>
 <div class="section">
   <h2>📁 Project Structure</h2>
   <pre><code>ip-domain-info/
